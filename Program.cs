@@ -54,7 +54,7 @@
             //[3, 7, 23, 12] -> 19
             //[-4, -6, 89, 6] -> 0
 
-        void zadacha35()
+        void zadacha36()
         {
             int size = 6;
             int [] array = new int [size];
@@ -84,7 +84,7 @@
 
 
 
-        void zadacha36()
+        void zadacha38()
         {
             Random random = new Random();
             Double[] array =new double[8];
@@ -121,7 +121,7 @@
 
 
         zadacha34();
-        zadacha35();
         zadacha36();
+        zadacha38();
     }
 }
